@@ -1,0 +1,82 @@
+﻿@model IEnumerable<Assignment5.Models.Domain.Product>
+@{
+}
+<h1>Danh Sách Sản Phẩm</h1>
+<a type="button" class="btn btn-primary" asp-action="AddProduct" asp-controller="Product">Create New</a>
+<table class="table">
+    <thead>
+        <tr>
+            <th>STT</th>
+            <th>Tên Sản Phẩm</th>
+            <th>Giá </th>
+            <th>Tình Trạng</th>
+            <th>Thao Tác</th>
+        </tr>
+    </thead>
+    <tbody>
+        @if (Model != null)
+        {
+            @foreach (var product in Model)
+            {
+                var imagePath = "../Content/Product/" + product.Path;
+                <tr>
+                    <td class="stt"></td>
+                    <td>
+                        <div style="display:flex;
+                                    column-gap: 10px">
+                            <img src="@imagePath" height="100px" width="100px">
+                            <div>
+                                <h4 style="color:brown">@product.Title</h4>
+                                <p>@product.Summary</p>
+                            </div>
+                        </div>
+                    </td>
+                    <td style="font-weight:bold">@product.Price.ToString() VNĐ</td>
+                    <td>
+                        <div>
+                            <p class="condition" data-number="@product.Number" style="font-weight:bold"></p>
+                            <p style="font-weight:bold">(@product.Number)</p>
+                        </div>
+                    </td>
+                    <td>
+                        <a class="btn btn-sm btn-primary" 
+                        asp-action="Edit" asp-controller="Product" asp-route-id="@product.Id">Edit</a>
+                        <a class="btn btn-sm btn-danger"
+                        asp-action="Delete" asp-controller="Product" asp-route-id="@product.Id">Delete</a>
+                        <a class="btn btn-sm btn-warning"
+                        asp-action="Details" asp-controller="Product" asp-route-id="@product.Id">Details</a>
+                    </td>
+                </tr>
+            }
+        }
+    </tbody>
+</table>
+@section scripts{
+    <script>
+        document.querySelectorAll(".condition").forEach((tr)=>
+        {
+            const number = tr.dataset.number;
+            if(number == 0)
+            {
+                tr.textContent = "Hết hàng";
+                tr.style.color = "red";
+            }
+            else
+            {
+                tr.textContent="Còn hàng";
+               
+            }
+        })
+        var count = 1;
+        document.querySelectorAll(".stt").forEach((stt) =>
+        {
+            stt.textContent=count;
+            count++;
+        })
+        const formatter = new Intl.NumberFormat('en-US', {
+            style: 'currency',
+            currency: 'VND'
+        });
+        console.log(formatter.format(3000000));
+    </script>
+}

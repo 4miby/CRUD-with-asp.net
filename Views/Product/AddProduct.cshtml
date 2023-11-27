@@ -1,0 +1,29 @@
+﻿@model Assignment5.Models.Domain.Product
+@{
+
+}
+<h1>Thêm sản phẩm</h1>
+<form method="post" class="mt-5" enctype="multipart/form-data">
+    <div asp-validation-summary="ModelOnly" class="text-danger text-center"></div>
+    <div class="mb-3">
+        <label asp-for="Title"></label>
+        <input type="text" class="form-control" asp-for="Title" required>
+    </div>
+    <div class="mb-3">
+        <label asp-for="Summary"></label>
+        <input type="text" class="form-control" asp-for="Summary" required>
+    </div>
+    <div class="mb-3">
+        <label asp-for="ImagePath"></label>
+        <input type="file" class="form-control" asp-for="ImagePath" required>
+    </div>
+    <div class="mb-3">
+        <label asp-for=Price></label>
+        <input type="number" class="form-control" asp-for="Price" required>
+    </div>
+    <div class="mb-3">
+        <label for="" class="form-label">Number</label>
+        <input type="number" class="form-control" asp-for="Number" required>
+    </div>
+    <input type="submit" class="btn btn-primary mt-5" value="Submit"/>
+</form>

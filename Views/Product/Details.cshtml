@@ -1,0 +1,17 @@
+﻿@model Assignment5.Models.Domain.Product
+@{
+}
+<h1>Chi Tiết Sản Phẩm</h1>
+<div>
+    <img src="../../Content/Product/@Model.Path" height="120px" width="150px">
+    <h4>Id Sản Phẩm</h4>
+    <p>@Model.Id</p>
+    <h4>Tên sản phẩm</h4>
+    <p>@Model.Title</p>
+    <h4>Mô tả</h4>
+    <p>@Model.Summary</p>
+    <h4>Giá sản phẩm</h4>
+    <p>@Model.Price VNĐ</p>
+    <h4>Số lượng hiện tại</h4>
+    <p>@Model.Number</p>
+</div>

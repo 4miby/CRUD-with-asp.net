@@ -1,0 +1,281 @@
+{
+  "Files": [
+    {
+      "Id": "F:\\Học\\Kì 5\\Lập trình Web\\Assignments\\Assignment5\\Assignment5\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\Assignment5.bundle.scp.css",
+      "PackagePath": "staticwebassets\\Assignment5.bundle.scp.css"
+    },
+    {
+      "Id": "F:\\Học\\Kì 5\\Lập trình Web\\Assignments\\Assignment5\\Assignment5\\wwwroot\\Content\\Product\\0b93ca9e-647b-41b2-9c13-204c0f12994b_image-1.png",
+      "PackagePath": "staticwebassets\\Content\\Product\\0b93ca9e-647b-41b2-9c13-204c0f12994b_image-1.png"
+    },
+    {
+      "Id": "F:\\Học\\Kì 5\\Lập trình Web\\Assignments\\Assignment5\\Assignment5\\wwwroot\\Content\\Product\\5ceae0e3-c0ca-44ad-b6ab-b915682be8f3_image-3.jpg",
+      "PackagePath": "staticwebassets\\Content\\Product\\5ceae0e3-c0ca-44ad-b6ab-b915682be8f3_image-3.jpg"
+    },
+    {
+      "Id": "F:\\Học\\Kì 5\\Lập trình Web\\Assignments\\Assignment5\\Assignment5\\wwwroot\\Content\\Product\\c273a289-292d-4ac8-8ffc-f43daf863177_ex.png",
+      "PackagePath": "staticwebassets\\Content\\Product\\c273a289-292d-4ac8-8ffc-f43daf863177_ex.png"
+    },
+    {
+      "Id": "F:\\Học\\Kì 5\\Lập trình Web\\Assignments\\Assignment5\\Assignment5\\wwwroot\\Content\\Product\\fe45bfa7-7723-4865-a9c9-e0aa28b776fc_image-2.jpg",
+      "PackagePath": "staticwebassets\\Content\\Product\\fe45bfa7-7723-4865-a9c9-e0aa28b776fc_image-2.jpg"
+    },
+    {
+      "Id": "F:\\Học\\Kì 5\\Lập trình Web\\Assignments\\Assignment5\\Assignment5\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "F:\\Học\\Kì 5\\Lập trình Web\\Assignments\\Assignment5\\Assignment5\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "F:\\Học\\Kì 5\\Lập trình Web\\Assignments\\Assignment5\\Assignment5\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "F:\\Học\\Kì 5\\Lập trình Web\\Assignments\\Assignment5\\Assignment5\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "F:\\Học\\Kì 5\\Lập trình Web\\Assignments\\Assignment5\\Assignment5\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "F:\\Học\\Kì 5\\Lập trình Web\\Assignments\\Assignment5\\Assignment5\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "F:\\Học\\Kì 5\\Lập trình Web\\Assignments\\Assignment5\\Assignment5\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "F:\\Học\\Kì 5\\Lập trình Web\\Assignments\\Assignment5\\Assignment5\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "F:\\Học\\Kì 5\\Lập trình Web\\Assignments\\Assignment5\\Assignment5\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "F:\\Học\\Kì 5\\Lập trình Web\\Assignments\\Assignment5\\Assignment5\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "F:\\Học\\Kì 5\\Lập trình Web\\Assignments\\Assignment5\\Assignment5\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "F:\\Học\\Kì 5\\Lập trình Web\\Assignments\\Assignment5\\Assignment5\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "F:\\Học\\Kì 5\\Lập trình Web\\Assignments\\Assignment5\\Assignment5\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "F:\\Học\\Kì 5\\Lập trình Web\\Assignments\\Assignment5\\Assignment5\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "F:\\Học\\Kì 5\\Lập trình Web\\Assignments\\Assignment5\\Assignment5\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "F:\\Học\\Kì 5\\Lập trình Web\\Assignments\\Assignment5\\Assignment5\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "F:\\Học\\Kì 5\\Lập trình Web\\Assignments\\Assignment5\\Assignment5\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "F:\\Học\\Kì 5\\Lập trình Web\\Assignments\\Assignment5\\Assignment5\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "F:\\Học\\Kì 5\\Lập trình Web\\Assignments\\Assignment5\\Assignment5\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "F:\\Học\\Kì 5\\Lập trình Web\\Assignments\\Assignment5\\Assignment5\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "F:\\Học\\Kì 5\\Lập trình Web\\Assignments\\Assignment5\\Assignment5\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "F:\\Học\\Kì 5\\Lập trình Web\\Assignments\\Assignment5\\Assignment5\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "F:\\Học\\Kì 5\\Lập trình Web\\Assignments\\Assignment5\\Assignment5\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "F:\\Học\\Kì 5\\Lập trình Web\\Assignments\\Assignment5\\Assignment5\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "F:\\Học\\Kì 5\\Lập trình Web\\Assignments\\Assignment5\\Assignment5\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "F:\\Học\\Kì 5\\Lập trình Web\\Assignments\\Assignment5\\Assignment5\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "F:\\Học\\Kì 5\\Lập trình Web\\Assignments\\Assignment5\\Assignment5\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "F:\\Học\\Kì 5\\Lập trình Web\\Assignments\\Assignment5\\Assignment5\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "F:\\Học\\Kì 5\\Lập trình Web\\Assignments\\Assignment5\\Assignment5\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "F:\\Học\\Kì 5\\Lập trình Web\\Assignments\\Assignment5\\Assignment5\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "F:\\Học\\Kì 5\\Lập trình Web\\Assignments\\Assignment5\\Assignment5\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "F:\\Học\\Kì 5\\Lập trình Web\\Assignments\\Assignment5\\Assignment5\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "F:\\Học\\Kì 5\\Lập trình Web\\Assignments\\Assignment5\\Assignment5\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "F:\\Học\\Kì 5\\Lập trình Web\\Assignments\\Assignment5\\Assignment5\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "F:\\Học\\Kì 5\\Lập trình Web\\Assignments\\Assignment5\\Assignment5\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "F:\\Học\\Kì 5\\Lập trình Web\\Assignments\\Assignment5\\Assignment5\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "F:\\Học\\Kì 5\\Lập trình Web\\Assignments\\Assignment5\\Assignment5\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "F:\\Học\\Kì 5\\Lập trình Web\\Assignments\\Assignment5\\Assignment5\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "F:\\Học\\Kì 5\\Lập trình Web\\Assignments\\Assignment5\\Assignment5\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "F:\\Học\\Kì 5\\Lập trình Web\\Assignments\\Assignment5\\Assignment5\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "F:\\Học\\Kì 5\\Lập trình Web\\Assignments\\Assignment5\\Assignment5\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "F:\\Học\\Kì 5\\Lập trình Web\\Assignments\\Assignment5\\Assignment5\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "F:\\Học\\Kì 5\\Lập trình Web\\Assignments\\Assignment5\\Assignment5\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "F:\\Học\\Kì 5\\Lập trình Web\\Assignments\\Assignment5\\Assignment5\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "F:\\Học\\Kì 5\\Lập trình Web\\Assignments\\Assignment5\\Assignment5\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "F:\\Học\\Kì 5\\Lập trình Web\\Assignments\\Assignment5\\Assignment5\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "F:\\Học\\Kì 5\\Lập trình Web\\Assignments\\Assignment5\\Assignment5\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "F:\\Học\\Kì 5\\Lập trình Web\\Assignments\\Assignment5\\Assignment5\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "F:\\Học\\Kì 5\\Lập trình Web\\Assignments\\Assignment5\\Assignment5\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "F:\\Học\\Kì 5\\Lập trình Web\\Assignments\\Assignment5\\Assignment5\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "F:\\Học\\Kì 5\\Lập trình Web\\Assignments\\Assignment5\\Assignment5\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "F:\\Học\\Kì 5\\Lập trình Web\\Assignments\\Assignment5\\Assignment5\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "F:\\Học\\Kì 5\\Lập trình Web\\Assignments\\Assignment5\\Assignment5\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "F:\\Học\\Kì 5\\Lập trình Web\\Assignments\\Assignment5\\Assignment5\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "F:\\Học\\Kì 5\\Lập trình Web\\Assignments\\Assignment5\\Assignment5\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "F:\\Học\\Kì 5\\Lập trình Web\\Assignments\\Assignment5\\Assignment5\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "F:\\Học\\Kì 5\\Lập trình Web\\Assignments\\Assignment5\\Assignment5\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "F:\\Học\\Kì 5\\Lập trình Web\\Assignments\\Assignment5\\Assignment5\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "F:\\Học\\Kì 5\\Lập trình Web\\Assignments\\Assignment5\\Assignment5\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "F:\\Học\\Kì 5\\Lập trình Web\\Assignments\\Assignment5\\Assignment5\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.Assignment5.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.Assignment5.props",
+      "PackagePath": "build\\Assignment5.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.Assignment5.props",
+      "PackagePath": "buildMultiTargeting\\Assignment5.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.Assignment5.props",
+      "PackagePath": "buildTransitive\\Assignment5.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
